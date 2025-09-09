@@ -1,0 +1,32 @@
+[
+  {
+    "text":"John from HR rated the document 7\/10 on 2025-08-22T14:00:00Z",
+    "rating":7.0,
+    "timestamp":"2025-08-22T14:00:00Z",
+    "asset_id":"asset_001"
+  },
+  {
+    "text":"Sarah in Marketing loved the report. Rating: 9\/10",
+    "rating":9.0,
+    "timestamp":"2025-08-22T15:00:00Z",
+    "asset_id":"asset_002"
+  },
+  {
+    "text":"The guide by Tom was confusing. No rating.",
+    "rating":8.5,
+    "timestamp":"2025-08-22T16:00:00Z",
+    "asset_id":"asset_003"
+  },
+  {
+    "text":"Excellent project update. Rating: 8\/10",
+    "rating":8.0,
+    "timestamp":"2025-09-09T09:02:57.039021",
+    "asset_id":"asset_004"
+  },
+  {
+    "text":"Content by Jane was error-free. Rating: 10\/10",
+    "rating":10.0,
+    "timestamp":"2025-08-22T18:00:00Z",
+    "asset_id":"asset_005"
+  }
+]

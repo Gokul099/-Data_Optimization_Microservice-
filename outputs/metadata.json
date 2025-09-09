@@ -1,0 +1,63 @@
+[
+  {
+    "text": "John from HR rated the document 7/10 on 2025-08-22T14:00:00Z",
+    "entities": [
+      {
+        "text": "John",
+        "label": "PERSON"
+      },
+      {
+        "text": "7/10",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2025-08-22T14:00:00Z",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Sarah in Marketing loved the report. Rating: 9/10",
+    "entities": [
+      {
+        "text": "Sarah",
+        "label": "PERSON"
+      },
+      {
+        "text": "9/10",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "text": "The guide by Tom was confusing. No rating.",
+    "entities": [
+      {
+        "text": "Tom",
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Excellent project update. Rating: 8/10",
+    "entities": [
+      {
+        "text": "8/10",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "text": "Content by Jane was error-free. Rating: 10/10",
+    "entities": [
+      {
+        "text": "Jane",
+        "label": "PERSON"
+      },
+      {
+        "text": "10/10",
+        "label": "CARDINAL"
+      }
+    ]
+  }
+]

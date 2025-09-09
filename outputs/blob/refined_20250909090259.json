@@ -1,0 +1,50 @@
+{
+  "timestamp": "20250909090259",
+  "data": [
+    {
+      "asset_id": "asset_001",
+      "text": "[MASKED] from HR rated the document 7/10 on 2025-08-22T14:00:00Z",
+      "orig_rating": 7.0,
+      "refined_quality": 6.0,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.8727733492851257,
+      "timestamp": "2025-08-22T14:00:00Z"
+    },
+    {
+      "asset_id": "asset_002",
+      "text": "[MASKED] in [MASKED] loved the report. [MASKED]: 9/10",
+      "orig_rating": 9.0,
+      "refined_quality": 8.0,
+      "sentiment": "POSITIVE",
+      "confidence": 0.9948544502258301,
+      "timestamp": "2025-08-22T15:00:00Z"
+    },
+    {
+      "asset_id": "asset_003",
+      "text": "[MASKED] guide by [MASKED] was confusing. [MASKED] rating.",
+      "orig_rating": 8.5,
+      "refined_quality": 7.5,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.9994396567344666,
+      "timestamp": "2025-08-22T16:00:00Z"
+    },
+    {
+      "asset_id": "asset_004",
+      "text": "[MASKED] project update. [MASKED]: 8/10",
+      "orig_rating": 8.0,
+      "refined_quality": 7.0,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.9980601668357849,
+      "timestamp": "2025-09-09T09:02:57.039021"
+    },
+    {
+      "asset_id": "asset_005",
+      "text": "[MASKED] by [MASKED] was error-free. [MASKED]: 10/10",
+      "orig_rating": 10.0,
+      "refined_quality": 9.0,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.9984449744224548,
+      "timestamp": "2025-08-22T18:00:00Z"
+    }
+  ]
+}

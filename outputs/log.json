@@ -1,0 +1,37 @@
+[
+  {
+    "asset_id": "asset_001",
+    "original": "John from HR rated the document 7/10 on 2025-08-22T14:00:00Z",
+    "masked": "[MASKED] from HR rated the document 7/10 on 2025-08-22T14:00:00Z",
+    "action": "decrease",
+    "reward": 0.09999999999999998
+  },
+  {
+    "asset_id": "asset_002",
+    "original": "Sarah in Marketing loved the report. Rating: 9/10",
+    "masked": "[MASKED] in [MASKED] loved the report. [MASKED]: 9/10",
+    "action": "decrease",
+    "reward": -0.09999999999999998
+  },
+  {
+    "asset_id": "asset_003",
+    "original": "The guide by Tom was confusing. No rating.",
+    "masked": "[MASKED] guide by [MASKED] was confusing. [MASKED] rating.",
+    "action": "decrease",
+    "reward": 0.09999999999999998
+  },
+  {
+    "asset_id": "asset_004",
+    "original": "Excellent project update. Rating: 8/10",
+    "masked": "[MASKED] project update. [MASKED]: 8/10",
+    "action": "decrease",
+    "reward": 0.09999999999999998
+  },
+  {
+    "asset_id": "asset_005",
+    "original": "Content by Jane was error-free. Rating: 10/10",
+    "masked": "[MASKED] by [MASKED] was error-free. [MASKED]: 10/10",
+    "action": "decrease",
+    "reward": 0.09999999999999998
+  }
+]
